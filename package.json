@@ -32,6 +32,7 @@
     "@ngrx/router-store": "^14.0.0",
     "@ngrx/store": "^14.0.0",
     "@nguniversal/express-engine": "^14.0.2",
+    "@nguniversal/module-map-ngfactory-loader": "^8.2.6",
     "bootstrap": "^3.4.1",
     "class-transformer": "^0.2.3",
     "class-validator": "^0.9.1",
